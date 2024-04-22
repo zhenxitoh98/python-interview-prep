@@ -1,5 +1,6 @@
 def hello() -> str:
-    return "Hello World!"
+    print("say sth blablabla")
+    return "Hello World!" + "Yulia"
 
 
 if __name__ == "__main__":
